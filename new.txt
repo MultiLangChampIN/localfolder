@@ -1,1 +1,1 @@
-this is a new file from use local folder in git-all
+this is a new file from  local folder in git-all
